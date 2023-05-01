@@ -1,0 +1,51 @@
+body {
+
+background-color: lightgreen;
+
+}
+
+fieldset {
+
+text-align: center;
+background-color: silver;
+color: rgb(0, 0, 0);
+width: 350px;
+height: 150px;
+margin: 200px;
+margin-left: 480px;
+border-radius: 5px;
+border-width: 10px;
+border-color: black;
+}
+
+legend {
+
+font-size: 30px;
+font-family:'Times New Roman', Times, serif;
+
+}
+
+input {
+
+border-radius: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#login {
+
+background-color: rgb(196, 196, 196);
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 24px;
+
+}
+
+a {
+
+font-size: 25px;
+background-color: black;
+color: white;
+border-radius: 5px;
+
+}

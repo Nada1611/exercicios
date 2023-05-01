@@ -1,0 +1,66 @@
+body {
+
+background-color:rgb(116, 115, 115)
+
+}
+
+fieldset {
+
+margin: 100px;
+text-align: center;
+border-color: black;
+border-radius: 25px;
+width: 150px;
+margin-left: 550px;
+height:300px;
+
+}
+
+legend {
+
+color: rgb(255, 255, 255);
+font-size: 60px;
+
+}
+
+input {
+
+border-radius: 5px;
+
+}
+
+#inicio {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(78, 5, 5);
+}
+
+
+#final {
+
+width: 500px;
+height: 130px;
+text-align: center;
+background-color: rgb(59, 59, 59);
+border-radius: 25px;
+font-size: 40px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(71, 82, 104);
+margin-top: 200px;
+margin-left: 400px;
+padding: 10px;
+
+}
+
+#classi {
+
+font-family:Georgia, 'Times New Roman', Times, serif ;
+color: rgb(197, 197, 197);
+font-size: 40px;
+
+
+}
+
+
+
+

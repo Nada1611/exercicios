@@ -1,0 +1,63 @@
+body {
+
+background-color:rgb(144, 199, 201) ;
+
+}
+
+
+fieldset {
+text-align: center;
+margin: 100px;
+margin-top: 200px;
+margin-left: 350px;
+background-color: rgb(41, 40, 40);
+padding: 10px;
+border-radius: 40px;
+height: 210px;
+width: 600px;
+
+}
+
+#num {
+
+color: white;
+font-size: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+
+border-radius: 10px;
+
+}
+
+legend {
+
+font-size: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(1, 136, 136);
+
+}
+
+#op {
+
+    text-align: center;
+    margin: 100px;
+    margin-top: 200px;
+    margin-left: 400px;
+    background-color: rgb(65, 26, 26);
+    padding: 10px;
+    border-radius: 40px;
+    border-color: rgb(214, 15, 15);
+    height: 150px;
+    width: 575px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#cal {
+
+font-size: 45px;
+color: rgb(88, 88, 88);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
